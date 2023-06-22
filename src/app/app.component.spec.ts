@@ -25,7 +25,6 @@ describe('AppComponent', () => {
   });
 
   it(`Length of the record`, fakeAsync(async () => {
-    debugger;
     fixture.detectChanges();
     tick(1000);
     expect(component.grid.currentViewData.length).toBe(8);
