@@ -1,6 +1,7 @@
 # Unit Jasmine testing in Syncfusion Angular Grid component 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
+## Node version
 Need to verify if the installed version of Node is 14 or higher. If it is below version 14, you must install a version of Node above 14. You can refer to the following link to install the [node version](https://nodejs.org/en/download). You can select any node version that is 14 or above and installed.
 
 ## Install package
