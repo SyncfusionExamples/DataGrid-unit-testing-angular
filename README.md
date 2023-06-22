@@ -1,14 +1,12 @@
-# WebspaPoc
+# Unit Jasmine testing in Syncfusion Angular Grid component 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.2.
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.1.4.
+Need to verify if the installed version of Node is 14 or higher. If it is below version 14, you must install a version of Node above 14. You can refer to the following link to install the [node version](https://nodejs.org/en/download). You can select any node version that is 14 or above and installed.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
 
-## Code scaffolding
-
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
 ## Build
 
@@ -18,10 +16,8 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 
 Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
 
 ## Further help
 
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+For more detailed information on setting up testing in Angular, refer to the official [Angular documentation](https://angular.io/guide/testing#set-up-testing).
