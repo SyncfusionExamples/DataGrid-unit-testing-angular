@@ -5,7 +5,7 @@ import { stringData } from '../data';
 
 @Component({
     selector: 'app-root',
-    template: `<ejs-grid #Grid [dataSource]='data' [allowSorting]='true'>
+    template: `<ejs-grid #Grid [dataSource]='data'>
                 <e-columns>
                     <e-column field='OrderID' headerText='Order ID' textAlign='Right' width=120></e-column>
                     <e-column field='CustomerID' headerText='Customer ID' width=150></e-column>
