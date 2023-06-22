@@ -28,7 +28,6 @@
     "@ng-select/ng-select": "^7.4.0",
     "@syncfusion/ej2": "*",
     "@syncfusion/ej2-angular-grids": "*",
-    "@syncfusion/ej2-angular-notifications": "*",
     "@types/bootstrap": "^3.4.0",
     "@types/jquery": "^3.5.6",
     "aspnet-prerendering": "^3.0.1",
