@@ -4,9 +4,9 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 ## Node version
 Need to verify if the installed version of Node is 14 or higher. If it is below version 14, you must install a version of Node above 14. You can refer to the following link to install the [node version](https://nodejs.org/en/download). You can select any node version that is 14 or above and installed.
 
-## Install package
+## Install packages
 
-Run `ng install` to install the required packages in this application.
+Run `npm install` to install the required packages in this application.
 
 ## Development server
 
