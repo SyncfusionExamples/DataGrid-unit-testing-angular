@@ -1,0 +1,20 @@
+/* You can add global styles to this file, and also import other style files */
+/* You can add global styles to this file, and also import other style files */
+/* Provide sufficient contrast against white background */
+@import "~bootstrap/scss/bootstrap";
+
+@import "~@fortawesome/fontawesome-free/scss/regular";
+@import '~@circlon/angular-tree-component/css/angular-tree-component.css';
+@import "~@ng-select/ng-select/themes/default.theme.css";
+@import "~@syncfusion/ej2/bootstrap.css";
+@import '~@syncfusion/ej2-base/styles/bootstrap.css';
+@import '~@syncfusion/ej2-inputs/styles/bootstrap.css';
+@import '~@syncfusion/ej2-angular-grids/styles/bootstrap.css';
+
+/*body {
+  font-family: 'Roboto', sans-serif;
+  overflow: hidden;
+  background: $bg-color;
+  color: $font-color;
+  font-size: $font-size;
+}*/
