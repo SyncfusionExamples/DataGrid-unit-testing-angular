@@ -24,4 +24,4 @@ Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.
 
 ## Further help
 
-For more detailed information on setting up testing in Angular, refer to the official [Angular documentation](https://angular.io/guide/testing#set-up-testing).
+For more detailed information on setting up testing in Angular, refer to the official [Angular documentation](https://angular.io/guide/testing#set-up-testing), and for setting up testing on Syncfusion Grid  refer to the [Sycfusion Grid testing](https://ej2.syncfusion.com/angular/documentation/grid/how-to/unit-jasmine-testing).
