@@ -1,10 +1,21 @@
 import { Component, OnInit, ViewChild } from '@angular/core';
-import { GridComponent } from '@syncfusion/ej2-angular-grids';
+import { GridComponent,  } from '@syncfusion/ej2-angular-grids';
 
 import { stringData } from '../data';
+import {  GridAllModule } from '@syncfusion/ej2-angular-grids';
+import { CommonModule, DatePipe } from '@angular/common';
+import { FormsModule, ReactiveFormsModule } from '@angular/forms';
 
 @Component({
     selector: 'app-root',
+    standalone:true,
+    imports: [
+    GridAllModule,
+    CommonModule,
+    FormsModule,
+    ReactiveFormsModule
+  ],
+  providers: [DatePipe],
     template: `<ejs-grid #Grid [dataSource]='data'>
                 <e-columns>
                     <e-column field='OrderID' headerText='Order ID' textAlign='Right' width=120></e-column>
